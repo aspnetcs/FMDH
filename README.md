@@ -1,5 +1,11 @@
 # A pytorch implementation for paper "Fast and Multilevel Semantic-Preserving Discrete Hashing" BMVC-2019
 
+# Paper
+https://bmvc2019.org/wp-content/uploads/papers/0788-paper.pdf
+
+# Reference
+Wanqian Zhang, Dayan Wu, Jinchao Zhang, Bo Li, Xiaoyan Gu, Weiping Wang, Dan Meng. BMVC spotlight: 2019
+
 ## REQUIREMENTS
 1. python >= 3.5.2
 2. pytorch >= 0.4
